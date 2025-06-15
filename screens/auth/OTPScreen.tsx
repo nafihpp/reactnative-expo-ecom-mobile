@@ -1,5 +1,4 @@
 "use client"
-
 import { useState, useEffect, useRef } from "react"
 import { View, StyleSheet, TouchableOpacity, TextInput, Alert, Dimensions } from "react-native"
 import { Text } from "@rneui/themed"

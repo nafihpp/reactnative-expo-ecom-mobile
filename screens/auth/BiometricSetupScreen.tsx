@@ -1,5 +1,4 @@
 "use client"
-
 import { useState } from "react"
 import { View, StyleSheet, Alert } from "react-native"
 import { Text, Button, Card } from "@rneui/themed"
